@@ -2,6 +2,7 @@ name: fifa2016
 favicon: null
 layout_spectrum: 0.8952040616422892
 typography_spectrum: 0.29599734977819026
+title: FIFA 16 tournament
 cta:
   domain: null
   bucket: null
